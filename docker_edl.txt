@@ -1,0 +1,16 @@
+notify.bugsnag.com
+sessions.bugsnag.com
+auth.docker.io
+cdn.auth0.com
+login.docker.com
+auth.docker.com
+desktop.docker.com
+hub.docker.com
+registry-1.docker.io
+production.cloudfront.docker.com
+docker-pinata-support.s3.amazonaws.com
+api.dso.docker.com
+pi.docker.com
+dhi.io
+registry.scout.docker.com
+ai-backend-service.docker.com
