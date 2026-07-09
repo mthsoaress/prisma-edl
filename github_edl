@@ -1,0 +1,6 @@
+github.com
+*.github.com
+api.github.com
+raw.githubusercontent.com
+objects.githubusercontent.com
+*.githubusercontent.com
