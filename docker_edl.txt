@@ -14,3 +14,7 @@ pi.docker.com
 dhi.io
 registry.scout.docker.com
 ai-backend-service.docker.com
+index.docker.io
+dseasb33srnrn.cloudfront.net
+production.cloudflare.docker.com
+production.cloudfront.docker.com
