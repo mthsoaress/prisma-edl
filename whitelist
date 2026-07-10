@@ -19,6 +19,7 @@ k3s.io
 gcr.io
 quay.io
 githubusercontent.com
+*.githubusercontent.com
 msap.io
 prod-eu.msap.io
 rancher.io
@@ -400,3 +401,5 @@ ez4uteam.com
 ine.pt
 lacus.zorgttp.nl
 lacus.test.zorgttp.nl
+deb.debian.org
+*.deb.debian.org
