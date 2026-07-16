@@ -415,4 +415,5 @@ r.mariadb.com
 *.mariadb.com
 storage.googleapis.com
 pmc-geofence.trafficmanager.net
+releases.astral.sh
 *.astral.sh
