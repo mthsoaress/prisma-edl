@@ -411,6 +411,6 @@ kedacore.github.io
 ghcr.io
 astral.sh
 r.mariadb.com
-postgresql.org
+*.postgresql.org
 *.mariadb.com
 storage.googleapis.com
