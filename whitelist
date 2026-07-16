@@ -414,3 +414,4 @@ r.mariadb.com
 *.postgresql.org
 *.mariadb.com
 storage.googleapis.com
+pmc-geofence.trafficmanager.net
