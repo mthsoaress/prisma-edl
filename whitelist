@@ -409,9 +409,10 @@ globalcdn.nuget.org
 bootstrap.pypa.io
 kedacore.github.io
 ghcr.io
-*.astral.sh
+astral.sh
 r.mariadb.com
 *.postgresql.org
 *.mariadb.com
 storage.googleapis.com
 pmc-geofence.trafficmanager.net
+*.astral.sh
