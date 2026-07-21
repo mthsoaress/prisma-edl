@@ -373,6 +373,8 @@ browserstack.com
 medicinaonline.multicare.pt
 ifconfig.me
 vault.azure.net
+*.vault.azure.net
+*.*.azure.net
 broadcom.com
 5369258.hs-sites-eu1.com
 21652508.hs-sites-eu1.com
