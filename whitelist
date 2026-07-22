@@ -424,6 +424,4 @@ ansible-community.github.io
 *.external-secrets.io
 *.googlehosted.com
 security.ubuntu.com
-aka.ms
-azcliextensionsync.blob.core.windows.net
 *.blob.core.windows.net
