@@ -425,3 +425,4 @@ ansible-community.github.io
 *.googlehosted.com
 security.ubuntu.com
 *.blob.core.windows.net
+mirror.gcr.io
