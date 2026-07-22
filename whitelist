@@ -423,3 +423,4 @@ ansible.github.io
 ansible-community.github.io
 *.external-secrets.io
 *.googlehosted.com
+security.ubuntu.com
