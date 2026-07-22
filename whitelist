@@ -426,3 +426,4 @@ ansible-community.github.io
 security.ubuntu.com
 *.blob.core.windows.net
 mirror.gcr.io
+*.ubuntu.com
