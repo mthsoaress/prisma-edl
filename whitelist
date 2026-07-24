@@ -428,3 +428,5 @@ security.ubuntu.com
 mirror.gcr.io
 *.ubuntu.com
 *.dev-dttsynergy.com
+*.azurecr.io
+
