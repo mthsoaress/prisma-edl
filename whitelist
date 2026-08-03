@@ -430,3 +430,4 @@ mirror.gcr.io
 *.dev-dttsynergy.com
 *.azurecr.io
 api.hubapi.com
+binaries.prisma.sh
