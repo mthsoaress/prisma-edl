@@ -431,3 +431,4 @@ mirror.gcr.io
 *.azurecr.io
 api.hubapi.com
 binaries.prisma.sh
+dl-cdn.alpinelinux.org
