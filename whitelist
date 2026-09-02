@@ -435,3 +435,4 @@ dl-cdn.alpinelinux.org
 *.ansible.com
 *.google.com
 *.pytorch.org
+*.googleapis.com 
