@@ -425,6 +425,7 @@ ansible-community.github.io
 *.googlehosted.com
 security.ubuntu.com
 *.blob.core.windows.net
+*.core.windows.net
 mirror.gcr.io
 *.ubuntu.com
 *.dev-dttsynergy.com
