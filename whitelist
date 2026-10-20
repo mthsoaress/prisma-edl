@@ -437,6 +437,7 @@ dl-cdn.alpinelinux.org
 *.google.com
 *.pytorch.org
 *.googleapis.com
+fonts.gstatic.com  
 *.hubspot.com
 *.hubspotusercontent-eu1.net
 *.azurewebsites.net
